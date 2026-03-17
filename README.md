@@ -108,3 +108,20 @@ AI Career Copilot is a smart career assistance platform that helps users:
 Understand their resume quality
 Discover missing skills
 Follow a structured learning roadmap
+7. How to Run the Project
+1. Clone the Repository
+git clone <your-repo-link>
+2. Navigate to Project Folder
+cd ai-career-copilot
+3. Start Frontend
+cd Frontend
+npm install
+npm run dev
+4. Start Backend
+cd Backend
+npm install
+node server.js
+HERE is the dfd form of the project development
+Image:-<img width="1408" height="768" alt="AI-Career-copilot" src="https://github.com/user-attachments/assets/2c5ab41c-7fe1-43d5-b173-949fbd4f20eb" />
+Video:-
+https://github.com/user-attachments/assets/6ea5b8c9-7c9f-4245-abf6-0b34995538eb
